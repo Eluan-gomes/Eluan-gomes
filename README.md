@@ -48,8 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eluan-gomes/Eluan-gomes/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
