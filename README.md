@@ -1,4 +1,23 @@
 <h2 align="left">👋 Olá! Sou um estudante de programação com uma paixão enorme por tecnologia e jogos variados. Meu interesse por computação me levou a explorar várias linguagens e frameworks, e estou sempre ansioso para aprender mais e enfrentar novos desafios.<br><br>Minhas habilidades incluem:<br><br>    - JavaScript<br>    - Dart e Flutter<br>    - HTML5 & CSS3<br>    - Bootstrap<br>    - React<br><br>Além de programação, sou fã de games e estou sempre explorando novas formas de integrar minhas paixões. Para mim, aprender é como desbloquear novos níveis em um jogo, e estou sempre pronto para a próxima aventura no mundo do código.<br><br>💻 Que tal começarmos a próxima jornada?</h2>
+=======
+
+<h2 align="left">👋 Olá! Sou um estudante de programação com uma paixão enorme por tecnologia e jogos variados. Meu interesse por computação me levou a explorar várias linguagens e frameworks, e estou sempre ansioso para aprender mais e enfrentar novos desafios.</h2>
+
+<h2>🏆 Minhas habilidades incluem:</h2>
+<br/>
+<ul>
+    <li>JavaScript</li>
+    <li>Dart e Flutter</li>
+    <li>HTML5 & CSS3</li>
+    <li>Bootstrap</li>
+    <li>React</li>
+</ul> 
+
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;Além de programação, sou fã de games e estou sempre explorando novas formas de integrar minhas paixões. Para mim, aprender é como desbloquear novos níveis em um jogo, e estou sempre pronto para a próxima aventura no mundo do código.
+    
+💻 Que tal começarmos a próxima jornada?
+</h2>
+>>>>>>> 287646824bbc9c3a546c24c1cca05cf89c1fdc25
 
 ###
 
