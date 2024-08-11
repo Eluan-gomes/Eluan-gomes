@@ -1,6 +1,5 @@
-<h2 align="left">👋 Olá! Sou um estudante de programação com uma paixão enorme por tecnologia e jogos variados. Meu interesse por computação me levou a explorar várias linguagens e frameworks, e estou sempre ansioso para aprender mais e enfrentar novos desafios.<br><br>Minhas habilidades incluem:<br><br>    - JavaScript<br>    - Dart e Flutter<br>    - HTML5 & CSS3<br>    - Bootstrap<br>    - React<br><br>Além de programação, sou fã de games e estou sempre explorando novas formas de integrar minhas paixões. Para mim, aprender é como desbloquear novos níveis em um jogo, e estou sempre pronto para a próxima aventura no mundo do código.<br><br>💻 Que tal começarmos a próxima jornada?</h2>
+<h2 align="left">👋 Olá! Sou um estudante de programação com uma paixão enorme por tecnologia e jogos variados. Meu interesse por computação me levou a explorar várias linguagens e frameworks, e estou sempre ansioso para aprender mais e enfrentar novos desafios.<br><br>Minhas habilidades incluem:<br><br>    - JavaScript<br>    - Dart e Flutter<br>    - HTML5 & CSS3<br>    - Bootstrap<br>    - React<br><br>Além de programação, sou fã de games e estou sempre explorando novas formas de integrar minhas paixões. Para mim, aprender é como desbloquear novos níveis em um jogo, e estou sempre pronto para a próxima aventura no mundo do código.<br><br>💻 Email: eluanalencarg@gmail.com</h2>
 <br>
-<h2>Email: <a>eluanalencarg@gmail.com</a></h2>
 
 ###
 
