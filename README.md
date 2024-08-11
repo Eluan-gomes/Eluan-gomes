@@ -1,16 +1,18 @@
 
-<h2 align="left">👋 Olá! Sou um estudante de programação com uma paixão enorme por tecnologia e jogos variados. Meu interesse por computação me levou a explorar várias linguagens e frameworks, e estou sempre ansioso para aprender mais e enfrentar novos desafios.
+<h2 align="left">👋 Olá! Sou um estudante de programação com uma paixão enorme por tecnologia e jogos variados. Meu interesse por computação me levou a explorar várias linguagens e frameworks, e estou sempre ansioso para aprender mais e enfrentar novos desafios.</h2>
 
-Minhas habilidades incluem:
+<h2>🏆 Minhas habilidades incluem:</h2>
+<br/>
+<ul>
+    <li>JavaScript</li>
+    <li>Dart e Flutter</li>
+    <li>HTML5 & CSS3</li>
+    <li>Bootstrap</li>
+    <li>React</li>
+</ul> 
 
-    JavaScript: Criando interações dinâmicas na web.
-    Dart e Flutter: Desenvolvendo interfaces móveis elegantes e funcionais.
-    HTML5 & CSS3: Estruturando e estilizando páginas web modernas.
-    Bootstrap: Otimizando layouts responsivos.
-    React: Construindo interfaces de usuário interativas.
-
-Além de programação, sou fã de games e estou sempre explorando novas formas de integrar minhas paixões. Para mim, aprender é como desbloquear novos níveis em um jogo, e estou sempre pronto para a próxima aventura no mundo do código.
-
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;Além de programação, sou fã de games e estou sempre explorando novas formas de integrar minhas paixões. Para mim, aprender é como desbloquear novos níveis em um jogo, e estou sempre pronto para a próxima aventura no mundo do código.
+    
 💻 Que tal começarmos a próxima jornada?
 </h2>
 
