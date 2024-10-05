@@ -5,7 +5,7 @@
     Atualmente trabalho na área de suporte e estou sempre buscando aprender mais sobre o mundo da tecnologia. Minha paixão por computação me impulsiona a explorar, inovar e enfrentar novos desafios.<br><br>
 </p>
 
-<img src="https://user-images.githubusercontent.com/your-profile-picture" alt="profile-picture" align="right" width="200" />
+<img src="[https://user-images.githubusercontent.com/your-profile-picture](https://i.imgur.com/If1JaaE.jpeg)" alt="profile-picture" align="right" width="200" />
 
 <h3 align="left">💼 Competências:</h3>
 <ul>
