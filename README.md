@@ -1,7 +1,7 @@
 <h2 align="left">👋 Olá! Me chamo Eluan</h2>
 
 <p align="left">
-    <b>Auxiliar de Suporte em TI | Fascinado por Tecnologia</b><br>
+    <b>Auxiliar de Suporte em TI </b><br>
     Atualmente trabalho na área de suporte e estou sempre buscando aprender mais sobre o mundo da tecnologia. Minha paixão por computação me impulsiona a explorar, inovar e enfrentar novos desafios.<br><br>
 </p>
 
