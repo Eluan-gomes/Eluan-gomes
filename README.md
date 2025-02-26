@@ -1,27 +1,40 @@
-<h2 align="left">👋 Olá! Me chamo Eluan</h2>
 
-<p align="left">
-    <b>Auxiliar de Suporte em TI </b><br>
-    Atualmente trabalho na área de suporte e estou sempre buscando aprender mais sobre o mundo da tecnologia. Minha paixão por computação me impulsiona a explorar, inovar e enfrentar novos desafios.<br><br>
-</p>
+# 💻 Olá, eu sou Eluan!
 
-<h3 align="left">💼 Competências:</h3>
-<ul>
-    <li>Suporte Técnico</li>
-    <li>Redes de Computadores</li>
-    <li>Trabalho em Equipe</li>
-    <li>Microsoft Office</li>
-    <li>Câmeras IP</li>
-</ul>
+🚀 Desenvolvedor Full Stack | Técnico em ADS | Apaixonado por Tecnologia
 
-<h3 align="left">🎮 Paixões e Hobbies:</h3>
-<p align="left">
-    Além de minha dedicação à computação, sou apaixonado por games e sempre estou buscando formas de integrar minhas paixões tecnológicas. Para mim, aprender é como desbloquear novos níveis em um jogo, e estou sempre pronto para a próxima aventura no mundo do código!
-</p>
-<br>
-<p align="center">
-    <a href="https://linktr.ee/eluanjg" target="_blank"><img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
-</p>
+Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Tenho experiência com **HTML, CSS, JavaScript, Bootstrap, Java e PHP**, além de boas práticas de versionamento com **Git**. Atualmente, estou aprimorando meus conhecimentos com bacharel de **Ciências da Computação** em andamento.  
 
----
+📚 Sempre aprendendo e buscando novos desafios!  
 
+## 🛠️ Tecnologias e Ferramentas 
+
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![Bootstrap](https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![SQL](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+
+## 📌 Sobre Mim  
+
+- 🔭 Atualmente, estou no primeiro periodo bacharel **Ciência da Computação**  
+- 🎯 Foco no desenvolvimento de sistemas eficientes e responsivos  
+- 📖 Estudando **Desenvolvimento Back-End em Java**  
+- 🏆 Buscando evoluir profissionalmente na área de tecnologia  
+
+## 📂 Projetos Recentes  
+
+🔹 [🏋️‍♀️Sistema de Controle de usuarios de Academia](https://github.com/Eluan-gomes/titan_fit.git)  
+🔹 [💻 Clone do UI/UX do Pinterest usando Flutter](https://github.com/Eluan-gomes/pinterest_clone.git)  
+
+Acesse meu perfil para ver mais projetos: [🔗 GitHub](https://github.com/Eluan-gomes)  
+
+## 📬 Contato  
+
+>📩 Email: eluanalencarg@gmail.com  
+>💼 LinkedIn: [eluan-alencar](https://linkedin.com/in/eluan-alencar)  
+>🌎 Portfólio: [myport-eluan](myport-eluan.netlify.app)  
+
+Vamos nos conectar e compartilhar conhecimento! 🚀  
