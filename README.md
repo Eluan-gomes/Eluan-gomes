@@ -16,7 +16,7 @@ Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Tenho 
 ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
 ![SQL](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
-![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![Git](https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000)
 
 ## 📌 Sobre Mim  
 
