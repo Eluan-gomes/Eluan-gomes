@@ -21,7 +21,7 @@ Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Tenho 
 
 - 🔭 Atualmente, estou no primeiro periodo bacharel **Ciência da Computação**  
 - 🎯 Foco no desenvolvimento de sistemas eficientes e responsivos  
-- 📖 Estudando **Desenvolvimento Back-End em Java**  
+- 📖 Estudando **Desenvolvimento Mobile Dart & Flutter**  
 - 🏆 Buscando evoluir profissionalmente na área de tecnologia  
 
 ## 📂 Projetos Recentes  
